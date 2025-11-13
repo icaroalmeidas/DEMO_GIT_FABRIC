@@ -1,0 +1,87 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 298,
+            "y": 0
+          },
+          "nodeIndex": "cotacoes",
+          "nodeLineageTag": "ac14500f-2c47-4739-95fa-5efea7d7e686",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 965,
+            "y": 497
+          },
+          "nodeIndex": "data_final",
+          "nodeLineageTag": "76bcc3c1-42ba-4e93-b705-6457ab08bc00",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 926,
+            "y": 163
+          },
+          "nodeIndex": "dCalendario",
+          "nodeLineageTag": "4952dfd5-08a4-4e61-a8ff-6691e578d726",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 32,
+            "y": 308
+          },
+          "nodeIndex": "moedas",
+          "nodeLineageTag": "11a33a38-2f4b-472e-9541-5e8c26a993f1",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 409,
+            "y": 359
+          },
+          "nodeIndex": "transacoes",
+          "nodeLineageTag": "50bad6d1-989c-4068-8d45-983c0c65758d",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
