@@ -1,4 +1,4 @@
-expression base_transacoes = "H:\Meu Drive\PESSOAL\PROJETOS\DEMO_GIT_FABRIC\youtube-20241111-git-github\transacoes.xlsx" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+expression base_transacoes = "H:\Meu Drive\PESSOAL\PROJETOS\DEMO_GIT_FABRIC\transacoes.xlsx" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
 	lineageTag: 091ab7fd-e70b-415e-a7d8-2c07a7229f8c
 	queryGroup: Parâmetros
 
